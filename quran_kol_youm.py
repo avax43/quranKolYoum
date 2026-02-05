@@ -46,18 +46,36 @@ def load_duas(file_path):
         return []
 
 def load_state():
-    """Load tracking state."""
+    """Load tracking state and sanitize used_duas."""
     if not os.path.exists(TRACKING_FILE):
         return {"posted_pages": [], "used_duas": []}
     try:
-        data = json.load(open(TRACKING_FILE, "r", encoding="utf-8"))
-        if "posted" in data and "posted_pages" not in data:
-            return {"posted_pages": data["posted"], "used_duas": []}
+        with open(TRACKING_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        
+        posted_pages = data.get("posted_pages", [])
+        if "posted" in data and not posted_pages:
+            posted_pages = data["posted"]
+            
+        raw_used_duas = data.get("used_duas", [])
+        sanitized_used_duas = []
+        
+        # Sanitization: Extract just the DUA text if it's a full caption
+        for entry in raw_used_duas:
+            if "ورد القرآن اليومي" in entry and "'" in entry:
+                try:
+                    extracted = entry.split("'")[1]
+                    sanitized_used_duas.append(extracted)
+                except IndexError:
+                    sanitized_used_duas.append(entry)
+            else:
+                sanitized_used_duas.append(entry)
+                
         return {
-            "posted_pages": data.get("posted_pages", []),
-            "used_duas": data.get("used_duas", [])
+            "posted_pages": posted_pages,
+            "used_duas": sanitized_used_duas
         }
-    except (json.JSONDecodeError, AttributeError):
+    except (json.JSONDecodeError, AttributeError, FileNotFoundError):
         return {"posted_pages": [], "used_duas": []}
 
 def save_state(posted_pages, used_duas):
