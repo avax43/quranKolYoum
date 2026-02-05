@@ -61,7 +61,7 @@ We welcome everyone! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## Contact Me
 If you need any help or have any questions, feel free to contact me 
-- **Telegram:** [@Avax43](https://t.me/@avax43)
+- **Telegram:** [@Avax43](https://t.me/Avax43)
 
 ## License
 This project is open-source. You are free to use, modify, and distribute it for any beneficial cause.
