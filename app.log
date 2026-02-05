@@ -925,3 +925,9 @@
 
 '﴿لَوْ أَنزَلْنَا هَٰ...
 2026-02-04 18:34:35,921 - ERROR - خطأ HTTP: 400 - {"error":{"message":"Error validating access token: Session has expired on Saturday, 31-Jan-26 06:09:29 PST. The current time is Wednesday, 04-Feb-26 10:34:35 PST.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"AYjbQl2NYDUuTw42g0PcyEO"}}
+2026-02-05 11:36:39,571 - INFO - ... بدء عملية النشر ...
+2026-02-05 11:36:39,571 - INFO - 📖 النشر للصورة رقم: 124
+2026-02-05 11:36:39,571 - INFO - 📝 التعليق (جزء): ورد القرآن اليومي، صفحة 124
+
+'قال عبد الله بن مسعو...
+2026-02-05 11:36:39,967 - ERROR - خطأ HTTP: 400 - {"error":{"message":"Error validating access token: Session has expired on Saturday, 31-Jan-26 06:09:29 PST. The current time is Thursday, 05-Feb-26 03:36:39 PST.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"AZLh3tZ52pwwDVrZc-cIttP"}}
