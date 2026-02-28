@@ -27,6 +27,7 @@ This project serves as a **Sadaqah Jariyah**. It automates the daily posting of 
     *   Click **New repository secret**.
     *   Add `FACEBOOK_PAGE_ID` (Value: Your Page ID).
     *   Add `FACEBOOK_ACCESS_TOKEN` (Value: Your Token).
+4.  **Start From Zero:** Delete `posted_pages.json` and the script will create it again & start from zero
 4.  **Enable Automation:**
     *   Go to the **Actions** tab.
     *   If you see a warning, click **"I understand my workflows, go ahead and enable them"**.
