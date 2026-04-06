@@ -1775,3 +1775,9 @@
 
 'قال رسول الله ﷺ: «خَ...
 2026-04-06 11:50:16,067 - ERROR - HTTP Error: 400 - {"error":{"message":"You cannot access the app till you log in to www.facebook.com and follow the instructions given.","type":"OAuthException","code":190,"error_data":"{\"checkpoint_url\":\"https:\\\/\\\/www.facebook.com\"}","error_subcode":459,"fbtrace_id":"A3cvFCS5YKzpwUgnh36Vsyh"}}
+2026-04-06 18:41:15,420 - INFO - Starting publishing process...
+2026-04-06 18:41:15,420 - INFO - Publishing page: 243
+2026-04-06 18:41:15,420 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 243
+
+'اللهم ألبسنا به الحل...
+2026-04-06 18:41:16,070 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Session has expired on Monday, 06-Apr-26 09:38:12 PDT. The current time is Monday, 06-Apr-26 11:41:15 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"AiuRCiMh7J4B3lAw2LTcKz2"}}
