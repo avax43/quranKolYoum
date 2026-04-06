@@ -1769,3 +1769,9 @@
 'اللهم شفع فينا القرآ...
 2026-04-05 18:27:37,955 - INFO - API Response: {'id': '122172941612944652', 'post_id': '770184126170284_122172941642944652'}
 2026-04-05 18:27:37,955 - INFO - Success! https://facebook.com/770184126170284_122172941642944652
+2026-04-06 11:50:15,228 - INFO - Starting publishing process...
+2026-04-06 11:50:15,228 - INFO - Publishing page: 243
+2026-04-06 11:50:15,228 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 243
+
+'قال رسول الله ﷺ: «خَ...
+2026-04-06 11:50:16,067 - ERROR - HTTP Error: 400 - {"error":{"message":"You cannot access the app till you log in to www.facebook.com and follow the instructions given.","type":"OAuthException","code":190,"error_data":"{\"checkpoint_url\":\"https:\\\/\\\/www.facebook.com\"}","error_subcode":459,"fbtrace_id":"A3cvFCS5YKzpwUgnh36Vsyh"}}
