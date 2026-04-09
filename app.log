@@ -1811,3 +1811,9 @@
 
 'اللهم اجعل القرآن لن...
 2026-04-09 11:55:51,129 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Session has expired on Monday, 06-Apr-26 09:38:12 PDT. The current time is Thursday, 09-Apr-26 04:55:51 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"AkWs3DUy_k9RA4oeVvK-FJY"}}
+2026-04-09 18:47:45,054 - INFO - Starting publishing process...
+2026-04-09 18:47:45,055 - INFO - Publishing page: 243
+2026-04-09 18:47:45,055 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 243
+
+'اللهم اجعل القرآن ال...
+2026-04-09 18:47:45,532 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Session has expired on Monday, 06-Apr-26 09:38:12 PDT. The current time is Thursday, 09-Apr-26 11:47:45 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"AsO4dx9_s8d0H0xrUwZJpOl"}}
