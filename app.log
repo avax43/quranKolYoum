@@ -1883,3 +1883,9 @@
 
 'قال عبد الله بن مسعو...
 2026-04-15 11:56:47,080 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Session has expired on Monday, 06-Apr-26 09:38:12 PDT. The current time is Wednesday, 15-Apr-26 04:56:46 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"Av8KTq7QUbxJoiDETll3Jh2"}}
+2026-04-15 18:59:02,897 - INFO - Starting publishing process...
+2026-04-15 18:59:02,897 - INFO - Publishing page: 243
+2026-04-15 18:59:02,897 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 243
+
+'قال عمر بن الخطاب رض...
+2026-04-15 18:59:03,303 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Session has expired on Monday, 06-Apr-26 09:38:12 PDT. The current time is Wednesday, 15-Apr-26 11:59:03 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"Ad-wCdBYF6xQFJ-XjSYT7jg"}}
