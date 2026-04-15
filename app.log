@@ -1877,3 +1877,9 @@
 
 'قال رسول الله ﷺ: «خَ...
 2026-04-14 18:57:30,940 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Session has expired on Monday, 06-Apr-26 09:38:12 PDT. The current time is Tuesday, 14-Apr-26 11:57:30 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"AcaP8x_R5steuJ7ZUAGbozg"}}
+2026-04-15 11:56:46,834 - INFO - Starting publishing process...
+2026-04-15 11:56:46,835 - INFO - Publishing page: 243
+2026-04-15 11:56:46,835 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 243
+
+'قال عبد الله بن مسعو...
+2026-04-15 11:56:47,080 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Session has expired on Monday, 06-Apr-26 09:38:12 PDT. The current time is Wednesday, 15-Apr-26 04:56:46 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"Av8KTq7QUbxJoiDETll3Jh2"}}
