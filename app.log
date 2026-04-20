@@ -1937,3 +1937,9 @@
 
 'اللهم ذكرنا من القرآ...
 2026-04-19 18:33:20,764 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.","type":"OAuthException","code":190,"error_subcode":460,"fbtrace_id":"AMU0nurh25FySHoNeogfEIW"}}
+2026-04-20 12:05:45,667 - INFO - Starting publishing process...
+2026-04-20 12:05:45,668 - INFO - Publishing page: 243
+2026-04-20 12:05:45,668 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 243
+
+'اللهم ارزقنا فهم الق...
+2026-04-20 12:05:46,302 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.","type":"OAuthException","code":190,"error_subcode":460,"fbtrace_id":"AEhEixvV2lINEgsTM7fFQU1"}}
