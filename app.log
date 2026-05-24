@@ -2351,3 +2351,9 @@
 
 'قال عمر بن الخطاب رض...
 2026-05-24 12:00:54,114 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Sessions for the user are not allowed because the user is not a confirmed user.","type":"OAuthException","code":190,"error_subcode":464,"fbtrace_id":"A1xN-jnekupgNlNk5uj56Lc"}}
+2026-05-24 18:59:09,927 - INFO - Starting publishing process...
+2026-05-24 18:59:09,927 - INFO - Publishing page: 243
+2026-05-24 18:59:09,928 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 243
+
+'﴿وَنُنَزِّلُ مِنَ ال...
+2026-05-24 18:59:10,497 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Sessions for the user are not allowed because the user is not a confirmed user.","type":"OAuthException","code":190,"error_subcode":464,"fbtrace_id":"AtbbM9GZ0vPCGoDq-vHCBOX"}}
