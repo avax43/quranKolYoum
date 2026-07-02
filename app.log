@@ -2813,3 +2813,9 @@
 
 'قال خباب بن الأرت رض...
 2026-07-01 19:28:18,511 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Sessions for the user are not allowed because the user is not a confirmed user.","type":"OAuthException","code":190,"error_subcode":464,"fbtrace_id":"AD8NT26dcp6hDCuH49UPD6o"}}
+2026-07-02 12:58:41,928 - INFO - Starting publishing process...
+2026-07-02 12:58:41,928 - INFO - Publishing page: 243
+2026-07-02 12:58:41,929 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 243
+
+'قال رسول الله ﷺ: «ال...
+2026-07-02 12:58:42,196 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Sessions for the user are not allowed because the user is not a confirmed user.","type":"OAuthException","code":190,"error_subcode":464,"fbtrace_id":"ALDDyNfXPYOfc7ZIE_aXLRu"}}
