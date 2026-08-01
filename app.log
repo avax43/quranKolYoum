@@ -3179,3 +3179,9 @@
 
 'قال رسول الله ﷺ: «من...
 2026-08-01 12:02:56,562 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Sessions for the user are not allowed because the user is not a confirmed user.","type":"OAuthException","code":190,"error_subcode":464,"fbtrace_id":"AT8_2r7Ac3nnNCcgElw-UD5"}}
+2026-08-01 18:52:10,972 - INFO - Starting publishing process...
+2026-08-01 18:52:10,973 - INFO - Publishing page: 243
+2026-08-01 18:52:10,973 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 243
+
+'قال الحسن البصري رحم...
+2026-08-01 18:52:11,478 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Sessions for the user are not allowed because the user is not a confirmed user.","type":"OAuthException","code":190,"error_subcode":464,"fbtrace_id":"AbisSMJNusPm8q9h7OjAyHF"}}
