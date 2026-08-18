@@ -3377,3 +3377,9 @@
 
 'اللهم ألبسنا به الحل...
 2026-08-17 18:21:24,892 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Sessions for the user are not allowed because the user is not a confirmed user.","type":"OAuthException","code":190,"error_subcode":464,"fbtrace_id":"AGpilvRY3Y6H5NxrtzTO-hf"}}
+2026-08-18 11:26:13,572 - INFO - Starting publishing process...
+2026-08-18 11:26:13,573 - INFO - Publishing page: 243
+2026-08-18 11:26:13,573 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 243
+
+'﴿وَنُنَزِّلُ مِنَ ال...
+2026-08-18 11:26:14,135 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Sessions for the user are not allowed because the user is not a confirmed user.","type":"OAuthException","code":190,"error_subcode":464,"fbtrace_id":"AeJIx1NKcsJNDF6b5Beqgut"}}
