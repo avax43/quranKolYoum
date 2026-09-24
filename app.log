@@ -3827,3 +3827,9 @@
 
 'اللهم اجعل القرآن لن...
 2026-09-24 15:43:48,796 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Sessions for the user are not allowed because the user is not a confirmed user.","type":"OAuthException","code":190,"error_subcode":464,"fbtrace_id":"A69UwCMNvNVcqzk6mAG2EVY"}}
+2026-09-24 20:53:58,010 - INFO - Starting publishing process...
+2026-09-24 20:53:58,011 - INFO - Publishing page: 243
+2026-09-24 20:53:58,011 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 243
+
+'قال عبد الله بن مسعو...
+2026-09-24 20:53:58,274 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Sessions for the user are not allowed because the user is not a confirmed user.","type":"OAuthException","code":190,"error_subcode":464,"fbtrace_id":"AcQ1VQx1NiHmlsI1VE0MEju"}}
