@@ -3887,3 +3887,9 @@
 
 'اللهم نور بالقرآن أب...
 2026-09-29 16:48:34,812 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Sessions for the user are not allowed because the user is not a confirmed user.","type":"OAuthException","code":190,"error_subcode":464,"fbtrace_id":"A3_pFpE1QG0PgVlJBpPoZw_"}}
+2026-09-29 21:37:02,332 - INFO - Starting publishing process...
+2026-09-29 21:37:02,332 - INFO - Publishing page: 243
+2026-09-29 21:37:02,332 - INFO - Caption snippet: ورد القرآن اليومي، صفحة 243
+
+'اللهم ذكرنا من القرآ...
+2026-09-29 21:37:02,621 - ERROR - HTTP Error: 400 - {"error":{"message":"Error validating access token: Sessions for the user are not allowed because the user is not a confirmed user.","type":"OAuthException","code":190,"error_subcode":464,"fbtrace_id":"A1socYLJsXXKUcFQtG7JtrH"}}
